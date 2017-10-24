@@ -61,6 +61,12 @@ nav a{
 	height: 50%;
 	background-color: bisque;
 }
-
+.sect2 {
+	height: 80%;
+	background-image: url("turkukuva.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
 
 
